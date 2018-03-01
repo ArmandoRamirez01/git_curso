@@ -1,5 +1,19 @@
+body{
+    background: #eff9b3;
+}
+
 h1{
     font-weight: normal;
     text-align: center;
     background: #ccc;
+}
+
+p{
+    color: red;
+    font-size: 20px;
+    font-family: cursive;
+    text-decoration: inherit;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
 }
