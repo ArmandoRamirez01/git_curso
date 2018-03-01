@@ -1,19 +1,41 @@
 body{
-    background: #eff9b3;
+    background: #ffffff;
 }
 
 h1{
     font-weight: normal;
     text-align: center;
-    background: #ccc;
 }
 
 p{
-    color: red;
+    color: black;
     font-size: 20px;
     font-family: cursive;
     text-decoration: inherit;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
+}
+
+.menu{
+    width: 100%;
+    background: #000;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu li a{
+    padding: 10px 90px;
+    display: inline-block;
+    color: #fff;
+}
+
+.menu li a:hover{
+    background: #ccc;
+    color: #000;
 }
