@@ -1,0 +1,11 @@
+commit 15f068e541b468db44fdc053468fb4e91b7fc205
+Author: José Armando Ramírez Carrillo <ing.armandoramirez@outlook.com>
+Date:   Thu Mar 1 13:12:16 2018 -0600
+
+    se agrego una nueva linea
+
+commit e5cf90cb880008663d4e69f98a5ff4f21e59aa1d
+Author: José Armando Ramírez Carrillo <ing.armandoramirez@outlook.com>
+Date:   Thu Mar 1 13:06:41 2018 -0600
+
+    Iniciamos
